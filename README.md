@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Serkan
+- 👋 Hi, I’m Serkan.
 - 🌱 I’m currently learning Java on Kodlama.io
 - 📫 How to reach me = serkanyazli@gmail.com
 <!---
