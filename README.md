@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Serkan
 - 🌱 I’m currently learning Java, on Kodlama.io
 - 📫 How to reach me => serkanyazli@gmail.com
-- ![](https://komarev.com/ghpvc/?username=imserkanY&color=blueviolet)
 
 <!---
 imserkanY/imserkanY is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
